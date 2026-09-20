@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+checkpoints/*
+!checkpoints/.gitkeep
+
+assets/*.cache
+*.log
+
+.vscode/
+.idea/
+
+.envo
